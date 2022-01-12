@@ -1,5 +1,6 @@
 Simple particles effect
 
-- HTML/CANVAS
+- HTML canvas element;
+- javascript;
 
 Example page: http://portfolio.marceloberte.com/particles/
