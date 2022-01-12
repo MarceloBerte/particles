@@ -1,6 +1,10 @@
-Simple particles effect
+# Simple particles effect
 
-- HTML canvas element;
-- javascript;
+A simple animation using HTML canvas element and some javascript.
 
-Example page: http://portfolio.marceloberte.com/particles/
+## Example
+
+Visit [pip](http://portfolio.marceloberte.com/particles/) to see in action.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
